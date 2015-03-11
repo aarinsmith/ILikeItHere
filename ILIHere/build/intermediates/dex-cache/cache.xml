@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/aarin/AndroidStudioProjects/ILIHere/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/mobile/build/intermediates/pre-dexed/debug/classes-2fd26dbfeb43ccb0cc281acdb00c474df5d3e5f6.jar" />
+    </item>
+    <item
+        jar="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/pre-dexed/release/classes-db982fd5800291bf1530ff9a850100c60c70e5e3.jar" />
+    </item>
+    <item
+        jar="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/pre-dexed/release/internal_impl-21.0.0-3fc1f514cff6bbc272b57c79ddfd1052db9b2cd3.jar" />
+    </item>
+    <item
+        jar="/home/aarin/AndroidStudioProjects/ILIHere/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/mobile/build/intermediates/pre-dexed/debug/classes-be062edc10839d2a7909793b957cdc08b54876bb.jar" />
+    </item>
+    <item
+        jar="/home/aarin/Development/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/pre-dexed/release/support-annotations-21.0.0-ac1b62b4daf915dd180d275e8d54d828c6bd2365.jar" />
+    </item>
+    <item
+        jar="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/exploded-aar/com.google.android.support/wearable/1.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/pre-dexed/release/classes-c02eacae723ccbd93ae534ec96c83435020f1100.jar" />
+    </item>
+    <item
+        jar="/home/aarin/AndroidStudioProjects/ILIHere/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/mobile/build/intermediates/pre-dexed/debug/classes-d9c980bb37ee2d9e1140c4c8395e697e8e8d7df2.jar" />
+    </item>
+    <item
+        jar="/home/aarin/Development/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/mobile/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-2c73fe6bb80ecf039d251216b5a7886e3f7d807e.jar" />
+    </item>
+    <item
+        jar="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/pre-dexed/release/classes-a30e526b36f993f4422a39be8f55a36c2d3e433b.jar" />
+    </item>
+    <item
+        jar="/home/aarin/AndroidStudioProjects/ILIHere/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/mobile/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-7345f433cd58fbdb6c8ac3a1599b19e33339fa60.jar" />
+    </item>
+    <item
+        jar="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/pre-dexed/release/classes-01a199742955d485814341f3ac10df85a30d3a52.jar" />
+    </item>
+    <item
+        jar="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="/home/aarin/AndroidStudioProjects/ILIHere/wear/build/intermediates/pre-dexed/release/classes-03a40ae32838f870eef2f465fb7ee73816bd2c22.jar" />
+    </item>
+
+</items>
